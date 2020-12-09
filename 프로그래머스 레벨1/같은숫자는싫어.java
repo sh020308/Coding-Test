@@ -1,4 +1,4 @@
-// https://programmers.co.kr/learn/courses/30/lessons/12906
+ // https://programmers.co.kr/learn/courses/30/lessons/12906
 import java.util.*;
 
 public class Solution {
